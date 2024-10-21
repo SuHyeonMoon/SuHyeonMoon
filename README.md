@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  >Hi 👋 I'm SuHyeonMoon :full_moon_with_face:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=744B30&vCenter=true&multiline=true&width=435&lines=%3EHi%F0%9F%91%8B+I'm+SuHyeonMoon%F0%9F%8C%9D" alt="Typing SVG" /></a>
 </div>
 
 <!-- Skills -->
