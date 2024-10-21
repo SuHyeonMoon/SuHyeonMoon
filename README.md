@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=cylinder"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=87b27c&height=170&section=header&text=SuHyeonMoon&fontSize=40"/>
 
 <!--
 **SuHyeonMoon/SuHyeonMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
