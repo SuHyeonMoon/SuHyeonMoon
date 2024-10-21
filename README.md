@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8D7C4&height=160&section=header&text=SuHyeonMoon&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8D7C4&height=140&section=header&text=SuHyeonMoon&fontSize=50"/>
 
 <!-- Introduction -->
 <div align="center">
