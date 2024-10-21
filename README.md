@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1><strong><span style="color: #FF69B4;">Hi</span> 👋 I'm <span style="color: #6A0DAD;">SuHyeonMoon</span> 🌝</strong></h1>
+  <h1><strong><span style="color: #FF69B4;">Hi 👋</span> I'm <span style="color: #8A2BE2;">kaengEE</span> 🔥</strong></h1>
 </div>
 
 <!-- Skills -->
