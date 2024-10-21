@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=C8D7C4&height=170&section=header&text=SuHyeonMoon&fontSize=50"/>
 
 <div align="center">
-  # Hi 👋 I'm SuHyeonMoon :full_moon_with_face:
+  <h1 style="color: #FF69B4;"><strong>Hi 👋 I'm SuHyeonMoon :full_moon_with_face:</strong></h1> <!-- 핑크색 -->
 </div>
 
 <!--
